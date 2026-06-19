@@ -1,0 +1,14 @@
+[
+  {
+    "address": "5pQJ7R5aNbfMGb7CxYm8F3J1E3bDaL4rfBcMB3jGvTo",
+    "name": "Solana OFAC Test Address 1",
+    "added": "2023-01-15",
+    "reason": "OFAC SDN - Associated with sanctioned entity"
+  },
+  {
+    "address": "3GDnStBLGsCLvA7mEMCFQowzkYETn4CFC977TcH5kBz",
+    "name": "Solana OFAC Test Address 2",
+    "added": "2023-01-15",
+    "reason": "OFAC SDN - Associated with sanctioned entity"
+  }
+]
