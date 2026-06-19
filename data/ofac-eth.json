@@ -1,0 +1,62 @@
+[
+  {
+    "address": "0x8589427373D6D84E98730D7795D8f6f8731FDA16",
+    "name": "Tornado Cash Router",
+    "added": "2022-08-08",
+    "reason": "OFAC SDN - Tornado Cash"
+  },
+  {
+    "address": "0xD4B88Df4D29F5CedD6857912842cff3b20C8Cfa3",
+    "name": "Tornado Cash: Governance",
+    "added": "2022-08-08",
+    "reason": "OFAC SDN - Tornado Cash"
+  },
+  {
+    "address": "0xFD8610d20aA15b7B2E3Be39B396a1bC3516c7144",
+    "name": "Tornado Cash: Router",
+    "added": "2022-08-08",
+    "reason": "OFAC SDN - Tornado Cash"
+  },
+  {
+    "address": "0x722122dF12D4e14e13Ac3b6895a86e84145b6967",
+    "name": "Tornado Cash Router 2",
+    "added": "2022-08-08",
+    "reason": "OFAC SDN - Tornado Cash"
+  },
+  {
+    "address": "0xDD4c48C0B24039969fC16D1cdF626eaB821d3384",
+    "name": "Tornado Cash: Proxy",
+    "added": "2022-08-08",
+    "reason": "OFAC SDN - Tornado Cash"
+  },
+  {
+    "address": "0xba214c1c1928a32Bffe790263E38B4Af9bFCD659",
+    "name": "Tornado Cash: Governance Proxy",
+    "added": "2022-08-08",
+    "reason": "OFAC SDN - Tornado Cash"
+  },
+  {
+    "address": "0x58E8dCC13BE9780fC42E8723D8EaD4CF78828f98",
+    "name": "Ronin Bridge Exploiter",
+    "added": "2022-04-14",
+    "reason": "OFAC SDN - Ronin Bridge Hack (Lazarus Group)"
+  },
+  {
+    "address": "0x098B716B8Aaf21512996dC57EB0615e2383E2f96",
+    "name": "Ronin Bridge Exploiter 2",
+    "added": "2022-04-14",
+    "reason": "OFAC SDN - Ronin Bridge Hack (Lazarus Group)"
+  },
+  {
+    "address": "0x23179a31b1bE1B5B3D98D52a2F0E0b3C5A66D2fE",
+    "name": "Lazarus Group - Blender.io",
+    "added": "2022-04-14",
+    "reason": "OFAC SDN - Blender.io (North Korea)"
+  },
+  {
+    "address": "0x6Bf694a291DF3FeC1f7e69701E3c634C15c0D993",
+    "name": "Sinbad.io Mixer",
+    "added": "2023-11-29",
+    "reason": "OFAC SDN - Sinbad.io mixer"
+  }
+]

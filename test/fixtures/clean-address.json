@@ -1,0 +1,8 @@
+{
+  "address": "0x0000000000000000000000000000000000000001",
+  "chain": "ethereum",
+  "expected": {
+    "sanctionsHit": false,
+    "decision": "clear"
+  }
+}

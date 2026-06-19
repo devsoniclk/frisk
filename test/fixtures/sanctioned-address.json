@@ -1,0 +1,9 @@
+{
+  "address": "0x8589427373D6D84E98730D7795D8f6f8731FDA16",
+  "chain": "ethereum",
+  "expected": {
+    "sanctionsHit": true,
+    "list": "OFAC SDN",
+    "decision": "block"
+  }
+}

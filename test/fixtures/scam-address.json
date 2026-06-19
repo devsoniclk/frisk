@@ -1,0 +1,10 @@
+{
+  "address": "0xdead000000000000000000000000000000000000",
+  "chain": "ethereum",
+  "expected": {
+    "sanctionsHit": true,
+    "list": "Community",
+    "category": "ransomware",
+    "decision": "block"
+  }
+}
